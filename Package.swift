@@ -10,6 +10,6 @@ let package = Package(
 		.target(
 			name: "When",
 			dependencies: [],
-			path: "./When"),
+			path: "./Sources"),
 	]
 )
